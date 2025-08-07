@@ -1,0 +1,17 @@
+{
+  "cards": 
+  [
+    { 
+    "card_type": "Glyph",
+    "name": "",
+    "cost": 0,
+    "elements": [],
+    "glyph_type": "",
+    "school": "",
+    "size": 0,
+    "target_criteria": "",
+    "ability": "",
+    "rules": ""    
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "decks": [
+    {
+      "name": "Human Frontiers",
+      "hero_name": "Mikal, Sword-for-Hire",
+      "gate_name": "Sweeping Meadow Gate",
+      "exp_deck": [
+        {"name": "Serene Grasslands", "count": 10},
+        {"name": "Windy Wheatfields", "count": 3},
+        {"name": "Empty Fields", "count": 3},
+        {"name": "Overgrown Cornfields", "count": 3},
+        {"name": "Rolling Hills", "count": 3},
+        {"name": "Withered Farmlands", "count": 3},
+        {"name": "Gentralia Settlement", "count": 3},
+        {"name": "Gentralia Outpost", "count": 3},
+        {"name": "Gentralia Township", "count": 3},
+        {"name": "The Long Stone Road", "count": 1},
+        {"name": "Tranquil Clearing", "count": 5}
+      ],
+      "adventure_deck": [
+        {"name": "Gentralia Guardsman", "count": 3},
+        {"name": "Gentralia Highcourt Scholar", "count": 3},
+        {"name": "Austlund Nightblade", "count": 3},
+        {"name": "Austlund Honorsworn", "count": 3},
+        {"name": "Tested Sellsword", "count": 3},
+        {"name": "Shunned Soothsayer", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 2},
+        {"name": "", "count": 2},
+        {"name": "", "count": 1},
+        {"name": "", "count": 1},
+        {"name": "", "count": 1}
+      ]
+    },
+    {
+      "name": "Elve's Unit",
+      "hero_name": "Oak-Bent, Forest’s Rage",
+      "gate_name": "Whistling Woods Gate",
+      "exp_deck": [
+        {"name": "Tranquil Clearing", "count": 10},
+        {"name": "Pine Grove", "count": 3},
+        {"name": "Reclaimed Lumberyard", "count": 3},
+        {"name": "Hazy Oaks", "count": 3},
+        {"name": "Wild Orchard", "count": 3},
+        {"name": "Bristlegrowth Vines", "count": 3},
+        {"name": "Farring’Oak Treeline", "count": 3},
+        {"name": "Elvish Nation Bridgecity", "count": 3},
+        {"name": "Elvish Nation Watchtower", "count": 3},
+        {"name": "The Mother Oak of Farring’Oak", "count": 1},
+        {"name": "Scenic Ridgetops", "count": 5}
+      ],
+      "adventure_deck": [
+        {"name": "Farring-Oak Borderguard", "count": 3},
+        {"name": "Farring-Oak Bladedancer", "count": 3},
+        {"name": "Guardian of the Nation", "count": 3},
+        {"name": "Treetop Sharpshooter", "count": 3},
+        {"name": "Deeproot Mage", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 2},
+        {"name": "", "count": 2},
+        {"name": "", "count": 1},
+        {"name": "", "count": 1},
+        {"name": "", "count": 1}
+      ]
+    },
+    {
+      "name": "Merfolk Lockdown",
+      "hero_name": "Lobda, Avenging Tide",
+      "gate_name": "Freshwater Loch Gate",
+      "exp_deck": [
+        {"name": "Placid Pond", "count": 10},
+        {"name": "Quicksink Lake", "count": 3},
+        {"name": "Brine Draw Lagoon", "count": 3},
+        {"name": "Seaside Loch", "count": 3},
+        {"name": "Isolated Pond", "count": 3},
+        {"name": "River Network Node", "count": 3},
+        {"name": "Glizakill Riverstation", "count": 3},
+        {"name": "Glizakill Trading Port", "count": 3},
+        {"name": "Glizakill Dam City", "count": 3},
+        {"name": "The Red Waters", "count": 1},
+        {"name": "Mellow Wetlands", "count": 5}
+      ],
+      "adventure_deck": [
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 2},
+        {"name": "", "count": 2},
+        {"name": "", "count": 1},
+        {"name": "", "count": 1},
+        {"name": "", "count": 1}
+      ]
+    },
+    {
+      "name": "Boggling Uprising",
+      "hero_name": "Wollow, Earth and Sky",
+      "gate_name": "Cranberry Growths Gate",
+      "exp_deck": [
+        {"name": "Mellow Wetlands", "count": 10},
+        {"name": "Algae-coat Bog", "count": 3},
+        {"name": "Decayed Growth Mire", "count": 3},
+        {"name": "Reed-Farm Swamp", "count": 3},
+        {"name": "Driftvine Fen", "count": 3},
+        {"name": "Gaslight Bogs", "count": 3},
+        {"name": "Bogling Stilt Village", "count": 3},
+        {"name": "Shamic Alliance Outpost", "count": 3},
+        {"name": "Shamic Alliance Township", "count": 3},
+        {"name": "The Bleakest Reminder", "count": 1},
+        {"name": "Wide Burrows", "count": 5}
+      ],
+      "adventure_deck": [
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 3},
+        {"name": "", "count": 2},
+        {"name": "", "count": 2},
+        {"name": "", "count": 1},
+        {"name": "", "count": 1},
+        {"name": "", "count": 1}
+      ]
+    }
+  ]
+}
